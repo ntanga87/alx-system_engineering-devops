@@ -1,3 +1,5 @@
 #!/bin/bash
-sudo chown vincent _hello
 sudo chgrp staff _hello
+
+
+
