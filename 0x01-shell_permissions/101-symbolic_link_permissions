@@ -1,5 +1,2 @@
 #!/bin/bash
 sudo chgrp staff _hello
-
-
-
