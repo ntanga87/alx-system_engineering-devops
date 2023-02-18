@@ -1,5 +1,4 @@
 #!/bin/bash
-#!/bin/bash
 
 find . -type f -iname "*.gif" -print0 | sort -z | while read -d $'\0' file
 do
@@ -9,4 +8,3 @@ do
 done
 
 echo  # add a new line at the end
-
